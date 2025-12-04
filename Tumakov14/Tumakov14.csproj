@@ -45,8 +45,8 @@
   <ItemGroup>
     <Compile Include="Classes\BankAccount.cs" />
     <Compile Include="Classes\BankTransaction.cs" />
-    <Compile Include="Classes\DeveloperInfoAttribute.cs" />
-    <Compile Include="Classes\InfoAttribute.cs" />
+    <Compile Include="Attributes\DeveloperInfoAttribute.cs" />
+    <Compile Include="Attributes\InfoAttribute.cs" />
     <Compile Include="Classes\RationalNum.cs" />
     <Compile Include="Enums\BankAcc.cs" />
     <Compile Include="Program.cs" />
